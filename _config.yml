@@ -1,0 +1,28 @@
+name: nathancunningham
+favicon: null
+layout_spectrum: 0.2026711239013821
+typography_spectrum: 0.2668763978872448
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8340213848277926
+  lightness: 0.3619298024568707
+  saturation: 0.7050722283311188
+  rhythmicContrast: 0.38305346365086734
+purpose: []
