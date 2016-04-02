@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.blueoceanbrain.com/board/index.php?bob=VHgxcnQ2ekkrWDIrQmZkVGF2NVRITVpMNUVYdGFtNmMvRmhqSGRMZU5rbnJGTHh4OVFZRkowVStSMVRyclN3dGowRU02bmNzbzI4emduTktRc0x2L0d6N1diTnV0cGFlQmdjeTYyZnlSOTI3T3dDMXBBTDhQdmpIUFoyZUN4bE0%3D'
 title: Blue Ocean Brain
-datePublished: '2016-04-02T04:23:47.373Z'
-dateModified: '2016-04-02T04:23:04.827Z'
+datePublished: '2016-04-02T04:37:47.906Z'
+dateModified: '2016-04-02T04:36:19.503Z'
 sourcePath: _posts/2016-04-02-blue-ocean-brain.md
 published: true
 inFeed: true
