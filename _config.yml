@@ -2,7 +2,7 @@ name: nathancunningham.com
 favicon: null
 layout_spectrum: 0.25437
 typography_spectrum: 0.2723404
-title: "Nathan's Progress"
+title: "Nathan's Progress Report"
 collections:
   - index:
       navigable: true
