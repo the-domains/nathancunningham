@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Some ideas I plan to implement from Tim Ferris - \_this he calls his \"coping mechanism and 8-step process for maximizing efficacy (doing the right things):"
-datePublished: '2016-04-02T07:26:25.198Z'
-dateModified: '2016-04-02T07:25:56.460Z'
+datePublished: '2016-04-02T07:26:43.224Z'
+dateModified: '2016-04-02T07:26:39.898Z'
 author: []
 title: Steal My Ideas
 sourcePath: _posts/2016-04-02-ideas-for-daily-routine.md
