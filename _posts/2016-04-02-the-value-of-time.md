@@ -49,14 +49,14 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@nac/i-ve-been-thinking-a-lot-lately-about-the-value-of-time-9115422e96d8#.22rotxp9k'
 title: The Value of Time
-datePublished: '2016-04-02T06:20:05.021Z'
-dateModified: '2016-04-02T06:19:06.478Z'
+datePublished: '2016-04-02T06:43:37.854Z'
+dateModified: '2016-04-02T06:43:28.740Z'
 sourcePath: _posts/2016-04-02-the-value-of-time.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _type: Article
 _context: 'http://schema.org'
