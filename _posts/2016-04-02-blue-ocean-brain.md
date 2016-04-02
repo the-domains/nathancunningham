@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.blueoceanbrain.com'
-  name: Blueoceanbrain
-  favicon: 'https://www.blueoceanbrain.com/img/icons/favs/favicon.png'
-  domain: www.blueoceanbrain.com
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - attention
   - pastimes
@@ -18,17 +16,21 @@ keywords:
   - congestion
   - take
 description: 'Nonstop work can lead to "cerebral congestion," according to Scientific American. Taking regular breaks from work during the workday, in the evenings and weekends through reading for pleasure, exercising, taking naps, or other fun pastimes can help clear out all the information that we are required to process each day to do our jobs.'
-inLanguage: en
+datePublished: '2016-04-02T06:32:27.654Z'
+dateModified: '2016-04-02T06:31:53.871Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.blueoceanbrain.com/board/index.php?bob=VHgxcnQ2ekkrWDIrQmZkVGF2NVRITVpMNUVYdGFtNmMvRmhqSGRMZU5rbnJGTHh4OVFZRkowVStSMVRyclN3dGowRU02bmNzbzI4emduTktRc0x2L0d6N1diTnV0cGFlQmdjeTYyZnlSOTI3T3dDMXBBTDhQdmpIUFoyZUN4bE0%3D'
-title: Blue Ocean Brain
-datePublished: '2016-04-02T04:37:47.906Z'
-dateModified: '2016-04-02T04:36:19.503Z'
+title: Weekly Blue Ocean Brain
 sourcePath: _posts/2016-04-02-blue-ocean-brain.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Blueoceanbrain
+  domain: www.blueoceanbrain.com
+  url: 'https://www.blueoceanbrain.com'
+  favicon: 'https://www.blueoceanbrain.com/img/icons/favs/favicon.png'
+url: weekly-blue-ocean-brain/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
