@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - psalmist
   - day
@@ -47,15 +47,17 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
+isBasedOnUrl: 'https://medium.com/@nac/i-ve-been-thinking-a-lot-lately-about-the-value-of-time-9115422e96d8#.22rotxp9k'
 title: The Value of Time
-datePublished: '2016-04-02T03:25:20.504Z'
-dateModified: '2016-04-02T03:24:39.576Z'
+datePublished: '2016-04-02T06:20:05.021Z'
+dateModified: '2016-04-02T06:19:06.478Z'
 sourcePath: _posts/2016-04-02-the-value-of-time.md
 published: true
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: the-value-of-time/index.html
+starred: true
+authors: []
 _type: Article
 _context: 'http://schema.org'
 
