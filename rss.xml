@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[To progress is always to begin again. --Martin Luther]]></title>
-        <description><![CDATA[To progress is always to begin again. --Martin Luther]]></description>
-        <link>https://thegrid.ai/nathancunningham/</link>
+        <title><![CDATA[Nathan's Progress]]></title>
+        <description><![CDATA[Nathan's Progress]]></description>
+        <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 18:00:14 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/nathancunningham/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 02 Apr 2016 02:27:36 GMT</lastBuildDate>
+        <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Hard Way]]></title>
             <description><![CDATA[<article><h1>The Hard Way</h1><p>The hard way is often the most rewarding.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf2ea5ab-666a-46fa-a380-f229b8250bdc.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nathancunningham/95c1e086-dc02-477e-8f2f-0a2694263486/index.html</link>
+            <link>http://nathancunningham.com/95c1e086-dc02-477e-8f2f-0a2694263486/index.html</link>
             <guid isPermaLink="false">95c1e086-dc02-477e-8f2f-0a2694263486</guid>
-            <pubDate>Fri, 01 Apr 2016 18:00:13 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 02:27:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Value of Time]]></title>
             <description><![CDATA[<article><h1>The Value of Time</h1><p>Lately I’ve been thinking a lot about the value of time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ce6501943dd9c7a94a505bfa3a0379cf3bc9df7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nathancunningham/04836909-dff4-4d6c-9256-a27e62b0bdb9/index.html</link>
+            <link>http://nathancunningham.com/04836909-dff4-4d6c-9256-a27e62b0bdb9/index.html</link>
             <guid isPermaLink="false">04836909-dff4-4d6c-9256-a27e62b0bdb9</guid>
             <pubDate>Fri, 01 Apr 2016 17:53:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[One Day]]></title>
             <description><![CDATA[<article><h1>One Day</h1><p>Days can change you forever. This was the evening of one such day in November 2012.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79e78169e871c900b8ad7f7126594de41281d635.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nathancunningham/895def53-2d7a-47ed-82eb-537c8769b3cb/index.html</link>
+            <link>http://nathancunningham.com/895def53-2d7a-47ed-82eb-537c8769b3cb/index.html</link>
             <guid isPermaLink="false">895def53-2d7a-47ed-82eb-537c8769b3cb</guid>
             <pubDate>Fri, 01 Apr 2016 17:59:30 GMT</pubDate>
         </item>
