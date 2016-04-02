@@ -4,14 +4,21 @@
         <description><![CDATA[Nathan's Progress]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 06:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 06:20:10 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Value of Time]]></title>
+            <description><![CDATA[<article><h1>The Value of Time</h1><p>Lately I've been thinking a lot about the value of time. One of the psalmists of ancient Israel prays that God would "teach us to number our days". Regardless of your world-view, the practice of numbering your days - for me today is 16,256 - can be a very powerful and humbling thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db275d4ee1b5d1bc3ca18eb2e2d1232031a8c481.jpg"></article>]]></description>
+            <link>https://medium.com/@nac/i-ve-been-thinking-a-lot-lately-about-the-value-of-time-9115422e96d8#.22rotxp9k</link>
+            <guid isPermaLink="false">9008b3d7-9c9f-4f43-8e66-4e85a9dc93a7</guid>
+            <pubDate>Sat, 02 Apr 2016 06:20:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About]]></title>
             <description><![CDATA[<article><h1>About</h1><p>The hard way is often the most rewarding.</p></article>]]></description>
             <link>http://nathancunningham.com/home/index.html</link>
             <guid isPermaLink="false">95c1e086-dc02-477e-8f2f-0a2694263486</guid>
-            <pubDate>Sat, 02 Apr 2016 06:04:00 GMT</pubDate>
+            <pubDate>Sat, 02 Apr 2016 06:18:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ideas for Daily Routine ]]></title>
@@ -54,13 +61,6 @@
             <link>http://nathancunningham.com/cruel-jokes-rules-and-lessons-for-april-1st/index.html</link>
             <guid isPermaLink="false">03a00906-f641-485f-b5d1-41c07c578722</guid>
             <pubDate>Sat, 02 Apr 2016 03:56:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Value of Time]]></title>
-            <description><![CDATA[<article><h1>The Value of Time</h1><p>Lately I've been thinking a lot about the value of time. One of the psalmists of ancient Israel prays that God would "teach us to number our days". Regardless of your world-view, the practice of numbering your days - for me today is 16,256 - can be a very powerful and humbling thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db275d4ee1b5d1bc3ca18eb2e2d1232031a8c481.jpg"></article>]]></description>
-            <link>http://nathancunningham.com/the-value-of-time/index.html</link>
-            <guid isPermaLink="false">9008b3d7-9c9f-4f43-8e66-4e85a9dc93a7</guid>
-            <pubDate>Sat, 02 Apr 2016 03:25:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
