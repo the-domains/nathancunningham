@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: "This is the my digital home base. I've held off developing my plot in cyberspace until now. Why? Because finally, over 25 years after enrolling and then immediately dropping out of AI class in 1990, AI is helpful and has designed (in fact is actively optimizing the design of) this website courtesy of thegrid.ai. This technology is ongoing beta and I'm honored to be a founding member of the grid."
-datePublished: '2016-04-02T07:02:59.079Z'
-dateModified: '2016-04-02T07:02:54.629Z'
+datePublished: '2016-04-02T07:03:21.059Z'
+dateModified: '2016-04-02T07:03:02.130Z'
 title: ''
 author: []
 authors: []
