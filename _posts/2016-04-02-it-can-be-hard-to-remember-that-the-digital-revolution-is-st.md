@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Raising your Digital Quotient from the McKinsey Quarterly. Read more here: http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/raising-your-digital-quotient'
-datePublished: '2016-04-02T05:49:47.045Z'
-dateModified: '2016-04-02T05:47:59.592Z'
+datePublished: '2016-04-02T06:07:00.028Z'
+dateModified: '2016-04-02T05:49:55.334Z'
 author: []
 title: it can be hard to remember that the digital revolution is still in its early days
 sourcePath: _posts/2016-04-02-it-can-be-hard-to-remember-that-the-digital-revolution-is-st.md
