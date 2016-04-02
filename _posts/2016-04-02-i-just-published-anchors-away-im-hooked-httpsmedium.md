@@ -17,8 +17,8 @@ keywords:
   - anchors-away-i-m-hooked-2175460fc2c3
   - 1lfhsas3x
 description: "I just published \"Anchors Away - I'm Hooked\" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor"
-datePublished: '2016-04-02T07:30:55.474Z'
-dateModified: '2016-04-02T07:30:49.477Z'
+datePublished: '2016-04-02T08:06:26.471Z'
+dateModified: '2016-04-02T08:06:21.473Z'
 author:
   - name: nandrewc
     url: 'http://twitter.com/nandrewc'
@@ -45,7 +45,7 @@ app_links:
     package: com.twitter.android
     namespace: google
     type: android
-title: ''
+title: "Featured Article\_"
 sourcePath: _posts/2016-04-02-i-just-published-anchors-away-im-hooked-httpsmedium.md
 published: true
 authors: []
@@ -58,4 +58,6 @@ _type: Comment
 _context: 'http://schema.org'
 
 ---
+# Featured Article 
+> 
 > I just published "Anchors Away - I'm Hooked" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3\#.1lfhsas3x ... @Anchor \#socialmedia \#Anchor
