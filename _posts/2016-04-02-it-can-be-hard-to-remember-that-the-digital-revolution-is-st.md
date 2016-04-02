@@ -6,9 +6,9 @@ isBasedOnUrl: 'urn:uuid:c1ae73d8-bc7f-42f5-9cf2-bd144e5cb4d5'
 inLanguage: null
 starred: false
 keywords: []
-description: it can be hard to remember that the digital revolution is still in its early days.
-datePublished: '2016-04-02T04:55:39.940Z'
-dateModified: '2016-04-02T04:53:29.653Z'
+description: 'http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/raising-your-digital-quotient'
+datePublished: '2016-04-02T05:13:15.111Z'
+dateModified: '2016-04-02T05:02:53.337Z'
 author: []
 title: 'it can be hard to remember that the digital revolution is still in its early days. '
 sourcePath: _posts/2016-04-02-it-can-be-hard-to-remember-that-the-digital-revolution-is-st.md
