@@ -16,8 +16,8 @@ keywords:
   - congestion
   - take
 description: Here I feature a weekly short post from my friends over at BlueOceanBrain.com (BOB)- they are pioneers in the micro-learning space and help companies all around the world boost their employees engagement and performance. Ask me more about BOB.
-datePublished: '2016-04-02T07:36:01.772Z'
-dateModified: '2016-04-02T07:36:01.169Z'
+datePublished: '2016-04-02T07:37:08.050Z'
+dateModified: '2016-04-02T07:37:03.158Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,10 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-Here I feature a weekly short post from my friends over at BlueOceanBrain.com (BOB)- they are pioneers in the micro-learning space and help companies all around the world boost their employees engagement and performance. Ask me more about BOB: nathan@ontap.digital
+Here I feature a weekly insight from my friends over at BlueOceanBrain.com (BOB)- they are pioneers in the micro-learning space and help companies all around the world boost their employees engagement and performance. Ask me more about how BOB might help your company: [nathan@ontap.digital][0]
 
 <article style=""><h1>Blue Ocean Brain</h1><p>Nonstop work can lead to "cerebral congestion," according to Scientific American. Taking regular breaks from work during the workday, in the evenings and weekends through reading for pleasure, exercising, taking naps, or other fun pastimes can help clear out all the information that we are required to process each day to do our jobs.</p><img src="https://s3.amazonaws.com/trt-assets/transform%2FImages%2FA+A+A+Live+Board%2F160328+P6.jpg" /></article>
+
+
+
+[0]: null
