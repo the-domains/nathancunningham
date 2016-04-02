@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nathan's Progress]]></title>
-        <description><![CDATA[Nathan's Progress]]></description>
+        <title><![CDATA[Nathan's Progress Report]]></title>
+        <description><![CDATA[Nathan's Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 06:43:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2016 07:02:59 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>This is the my digital home base. I've held off developing my plot in cyberspace until now. Why? Because finally, over 25 years after enrolling and then immediately dropping out of AI class in 1990, AI is helpful and has designed (in fact is actively optimizing the design of) this website courtesy of thegrid.ai. This technology is ongoing beta and I'm honored to be a founding member of the grid.</p>]]></description>
+            <link>http://nathancunningham.com/this-is-the-my-digital-home-base-ive-held-off-developing-m/index.html</link>
+            <guid isPermaLink="false">b6cc583c-4fec-4988-bfc5-f7d5eee7a607</guid>
+            <pubDate>Sat, 02 Apr 2016 07:02:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Value of Time]]></title>
             <description><![CDATA[<article><h1>The Value of Time</h1><p>Lately I've been thinking a lot about the value of time. One of the psalmists of ancient Israel prays that God would "teach us to number our days". Regardless of your world-view, the practice of numbering your days - for me today is 16,256 - can be a very powerful and humbling thing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db275d4ee1b5d1bc3ca18eb2e2d1232031a8c481.jpg"></article>]]></description>
