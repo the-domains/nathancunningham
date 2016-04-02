@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'urn:uuid:c0e1ac2d-8c89-4644-9e5f-b923b91ecb35'
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: "From Tim Ferris -\_\_his \"coping mechanism and 8-step process for maximizing efficacy (doing the right things):"
-datePublished: '2016-04-02T05:25:23.280Z'
-dateModified: '2016-04-02T05:25:18.770Z'
+datePublished: '2016-04-02T05:33:41.469Z'
+dateModified: '2016-04-02T05:30:10.875Z'
 author: []
 title: 'Ideas for Daily Routine '
+sourcePath: _posts/2016-04-02-ideas-for-daily-routine.md
+published: true
 authors: []
 publisher:
   name: ''
   domain: ''
   url: null
   favicon: null
-sourcePath: _posts/2016-04-02-ideas-for-daily-routine.md
-published: true
+url: ideas-for-daily-routine/index.html
 _context: 'http://schema.org'
 _type: Article
 
