@@ -1,20 +1,8 @@
-title: "Nathan's Progress"
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.49398
-favicon: null
 name: nathancunningham.com
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.25437
+typography_spectrum: 0.2723404
+title: "Nathan's Progress"
 collections:
   - index:
       navigable: true
@@ -27,15 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8340213848277926
-  saturation: 0.7050722283311188
   brandColors:
     - '#ffffff'
     - '#cab57c'
     - '#b59451'
     - '#190e0e'
     - '#392d27'
+  brandStrength: 0.8340213848277926
   lightness: 0.3619298024568707
+  saturation: 0.7050722283311188
   rhythmicContrast: 0.3830534636508673
-typography_spectrum: 0.2723404
+purpose: []
