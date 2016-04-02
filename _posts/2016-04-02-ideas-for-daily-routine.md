@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "From Tim Ferris -\_\_his \"coping mechanism and 8-step process for maximizing efficacy (doing the right things):"
-datePublished: '2016-04-02T06:30:55.570Z'
-dateModified: '2016-04-02T06:20:46.789Z'
+datePublished: '2016-04-02T06:31:52.212Z'
+dateModified: '2016-04-02T06:31:03.654Z'
 author: []
 title: 'Ideas for Daily Routine '
 sourcePath: _posts/2016-04-02-ideas-for-daily-routine.md
