@@ -17,8 +17,8 @@ keywords:
   - anchors-away-i-m-hooked-2175460fc2c3
   - 1lfhsas3x
 description: "I just published \"Anchors Away - I'm Hooked\" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor"
-datePublished: '2016-04-16T22:11:57.689Z'
-dateModified: '2016-04-16T22:11:13.506Z'
+datePublished: '2016-04-16T22:12:14.806Z'
+dateModified: '2016-04-16T22:12:04.074Z'
 author:
   - name: nandrewc
     url: 'http://twitter.com/nandrewc'
