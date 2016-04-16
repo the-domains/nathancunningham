@@ -4,7 +4,7 @@
         <description><![CDATA[Nathan's Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 19:53:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 19:54:20 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Value of a Moment]]></title>
@@ -19,6 +19,13 @@
             <link>http://nathancunningham.com/this-is-the-my-digital-home-base-ive-held-off-developing-m/index.html</link>
             <guid isPermaLink="false">b6cc583c-4fec-4988-bfc5-f7d5eee7a607</guid>
             <pubDate>Sat, 02 Apr 2016 08:17:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introducing Anchor ]]></title>
+            <description><![CDATA[<article><h1>Introducing Anchor </h1><p>I just published "Anchors Away - I'm Hooked" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor</p></article>]]></description>
+            <link>https://twitter.com/nandrewc/status/702663415857152000</link>
+            <guid isPermaLink="false">28caca39-4ff2-4b3d-a874-2bc5273d9384</guid>
+            <pubDate>Sat, 16 Apr 2016 19:54:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Simon Sinek on Why to Live a More Generous and Sincere Life]]></title>
@@ -47,13 +54,6 @@
             <link>http://www.productiveflourishing.com/maven-connector-or-salesperson-whats-your-archetype/</link>
             <guid isPermaLink="false">c505d326-9227-4eae-9ebc-9fdd400dfe1c</guid>
             <pubDate>Mon, 04 Apr 2016 22:25:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Featured Article ]]></title>
-            <description><![CDATA[<article><h1>Featured Article </h1><p>I just published "Anchors Away - I'm Hooked" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor</p></article>]]></description>
-            <link>https://twitter.com/nandrewc/status/702663415857152000</link>
-            <guid isPermaLink="false">28caca39-4ff2-4b3d-a874-2bc5273d9384</guid>
-            <pubDate>Sat, 02 Apr 2016 08:06:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Value of Time]]></title>
