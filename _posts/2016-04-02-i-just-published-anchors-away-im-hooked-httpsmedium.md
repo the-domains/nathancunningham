@@ -17,8 +17,8 @@ keywords:
   - anchors-away-i-m-hooked-2175460fc2c3
   - 1lfhsas3x
 description: "I just published \"Anchors Away - I'm Hooked\" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor"
-datePublished: '2016-04-16T19:54:05.470Z'
-dateModified: '2016-04-16T19:53:13.119Z'
+datePublished: '2016-04-16T22:11:57.689Z'
+dateModified: '2016-04-16T22:11:13.506Z'
 author:
   - name: nandrewc
     url: 'http://twitter.com/nandrewc'
@@ -59,5 +59,5 @@ _context: 'http://schema.org'
 
 ---
 # Introducing Anchor 
-> 
-> "Anchors Away - I'm Hooked" introduces Anchor: "" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3\#.1lfhsas3x ... @Anchor \#socialmedia \#Anchor
+
+# ""
