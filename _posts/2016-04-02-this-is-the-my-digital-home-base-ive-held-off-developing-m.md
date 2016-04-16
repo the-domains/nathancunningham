@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: "This is the my digital home base. I've held off developing my plot in cyberspace until now. Why? Because I don't have time to build my own website, but finally, over 25 years after enrolling and then immediately dropping out of AI class in 1990, I'm finding that AI is helpful. This website was designed by thegrid.ai (in fact it's design is constantly being optimized as the AI gets smarter). I feed it content, it designs my site. Please be aware and forbearing with the fact that this technology is in beta. I'm honored to be a founding member of the grid."
-datePublished: '2016-04-02T08:17:15.057Z'
-dateModified: '2016-04-02T08:17:10.962Z'
-title: ''
+datePublished: '2016-04-16T22:07:26.535Z'
+dateModified: '2016-04-16T19:56:17.300Z'
+title: About
 author: []
 sourcePath: _posts/2016-04-02-this-is-the-my-digital-home-base-ive-held-off-developing-m.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: this-is-the-my-digital-home-base-ive-held-off-developing-m/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51afb281-fd3a-4e1b-a3b7-dafe382bc6b9.jpg)
