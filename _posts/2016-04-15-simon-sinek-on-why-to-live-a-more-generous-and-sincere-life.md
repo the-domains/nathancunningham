@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Watch all Simon Sinek Capture Your Flag interviews: http://www.youtube.com/playlist?list=PL0F0B345720658BFB In Chapter 1 of 23 in his 2013 Capture Your Flag interview, author and public speaker Simon Sinek answers "How Are Your Aspirations Changing As Your Experience Grows?" Sinek notes how early in his career his aspirations were about personal achievements and goals.'
-datePublished: '2016-04-15T17:27:56.041Z'
-dateModified: '2016-04-15T17:27:25.070Z'
+datePublished: '2016-04-16T22:08:03.893Z'
+dateModified: '2016-04-16T22:08:03.492Z'
 author:
   - name: Capture Your Flag
     url: 'https://www.youtube.com/user/captureyourflag'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: Simon Sinek on Why to Live a More Generous and Sincere Life
+sourcePath: _posts/2016-04-15-simon-sinek-on-why-to-live-a-more-generous-and-sincere-life.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
-sourcePath: _posts/2016-04-15-simon-sinek-on-why-to-live-a-more-generous-and-sincere-life.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
