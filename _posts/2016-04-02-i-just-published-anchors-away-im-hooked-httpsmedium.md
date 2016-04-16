@@ -17,8 +17,8 @@ keywords:
   - anchors-away-i-m-hooked-2175460fc2c3
   - 1lfhsas3x
 description: "I just published \"Anchors Away - I'm Hooked\" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor"
-datePublished: '2016-04-16T22:12:14.806Z'
-dateModified: '2016-04-16T22:12:04.074Z'
+datePublished: '2016-04-16T22:13:58.935Z'
+dateModified: '2016-04-16T22:13:20.126Z'
 author:
   - name: nandrewc
     url: 'http://twitter.com/nandrewc'
@@ -60,4 +60,6 @@ _context: 'http://schema.org'
 ---
 # Introducing Anchor 
 
-# ""
+#### [It's like the intersection of Twitter (a micro-blogging platform), voicemail (or those short voice recordings you can send via iMessage), and texting/messaging.][0]
+
+[0]: https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.3by68pj4o
