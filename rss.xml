@@ -4,7 +4,7 @@
         <description><![CDATA[Nathan's Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 22:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 22:49:16 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Value of a Moment]]></title>
@@ -14,15 +14,22 @@
             <pubDate>Sat, 16 Apr 2016 19:51:54 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Maker's Schedule, Manager's Schedule]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a85cea7-e100-4f73-b3b2-075d261784fc.jpg">]]></description>
+            <link>http://www.paulgraham.com/makersschedule.html</link>
+            <guid isPermaLink="false">dca094e0-1e4a-4759-ba00-bed78c1d3a9b</guid>
+            <pubDate>Wed, 20 Apr 2016 22:48:27 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"The secret of leadership is simple: Do what you believe in. Paint a picture of the future. Go there. People will follow." @ThisIsSethsBlog</p>]]></description>
+            <description><![CDATA["The secret of leadership is simple: Do what you believe in. Paint a picture of the future. Go there. People will follow." @ThisIsSethsBlog]]></description>
             <link>https://twitter.com/nandrewc/status/721138328779685888</link>
             <guid isPermaLink="false">362cda27-e7c8-495c-be09-5ed5fd73acf6</guid>
             <pubDate>Sat, 16 Apr 2016 22:18:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Introducing Anchor ]]></title>
-            <description><![CDATA[<article><h1>Introducing Anchor </h1><h2>It’s like the intersection of Twitter (a micro-blogging platform), voicemail (or those short voice recordings you can send via iMessage), and texting/messaging.</h2><p>I just published "Anchors Away - I'm Hooked" https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.1lfhsas3x ... @Anchor #socialmedia #Anchor</p></article>]]></description>
+            <description><![CDATA[<article><h1>Introducing Anchor </h1><h2>It’s like the intersection of Twitter (a micro-blogging platform), voicemail (or those short voice recordings you can send via iMessage), and texting/messaging.</h2></article>]]></description>
             <link>https://twitter.com/nandrewc/status/702663415857152000</link>
             <guid isPermaLink="false">28caca39-4ff2-4b3d-a874-2bc5273d9384</guid>
             <pubDate>Sat, 16 Apr 2016 22:13:58 GMT</pubDate>
@@ -64,7 +71,7 @@
         </item>
         <item>
             <title><![CDATA[it can be hard to remember that the digital revolution is still in its early days]]></title>
-            <description><![CDATA[<article><h1>it can be hard to remember that the digital revolution is still in its early days</h1><p>Raising your Digital Quotient from the McKinsey Quarterly. Read more here: http://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/raising-your-digital-quotient</p></article>]]></description>
+            <description><![CDATA[<h1>it can be hard to remember that the digital revolution is still in its early days</h1>]]></description>
             <link>urn:uuid:c1ae73d8-bc7f-42f5-9cf2-bd144e5cb4d5</link>
             <guid isPermaLink="false">c3b1d7db-a43f-462e-8a5f-8451c36956ec</guid>
             <pubDate>Sat, 02 Apr 2016 06:41:13 GMT</pubDate>
