@@ -6,10 +6,12 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This is the my digital home base. I've held off developing my plot in cyberspace until now. Why? Because I don't have time to build my own website, but finally, over 25 years after enrolling and then immediately dropping out of AI class in 1990, I'm finding that AI is helpful. This website was designed by thegrid.ai (in fact it's design is constantly being optimized as the AI gets smarter). I feed it content, it designs my site. Please be aware and forbearing with the fact that this technology is in beta. I'm honored to be a founding member of the grid."
-datePublished: '2016-04-16T22:25:34.142Z'
-dateModified: '2016-04-16T22:25:08.272Z'
-title: About
-author: []
+datePublished: '2016-04-20T23:19:42.114Z'
+dateModified: '2016-04-20T23:19:41.405Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-02-this-is-the-my-digital-home-base-ive-held-off-developing-m.md
 published: true
 authors: []
