@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This is the my digital home base. I've held off developing my plot in cyberspace until now. Why? Because I don't have time to build my own website, but finally, over 25 years after enrolling and then immediately dropping out of AI class in 1990, I'm finding that AI is helpful. This website was designed by thegrid.ai (in fact it's design is constantly being optimized as the AI gets smarter). I feed it content, it designs my site. Please be aware and forbearing with the fact that this technology is in beta. I'm honored to be a founding member of the grid."
-datePublished: '2016-04-20T23:25:19.144Z'
-dateModified: '2016-04-20T23:24:57.239Z'
+datePublished: '2016-04-20T23:28:25.539Z'
+dateModified: '2016-04-20T23:25:27.374Z'
 title: ''
 author:
   - name: ''
