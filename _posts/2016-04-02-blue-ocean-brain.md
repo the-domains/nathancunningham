@@ -15,13 +15,13 @@ keywords:
   - nonstop
   - congestion
   - take
-description: Here I feature a weekly short post from my friends over at BlueOceanBrain.com (BOB)- they are pioneers in the micro-learning space and help companies all around the world boost their employees engagement and performance. Ask me more about BOB.
-datePublished: '2016-04-02T07:37:08.050Z'
-dateModified: '2016-04-02T07:37:03.158Z'
+description: 'Here I feature a weekly insight from my friends over at BlueOceanBrain.com (BOB)- they are pioneers in the micro-learning space and help companies all around the world boost their employees engagement and performance. Ask me more about how BOB might help your company: nathan@ontap.digital'
+datePublished: '2016-04-28T03:43:12.801Z'
+dateModified: '2016-04-20T23:20:39.368Z'
 author: []
 related: []
 app_links: []
-title: Weekly Blue Ocean Brain
+title: Blue Ocean Brain
 sourcePath: _posts/2016-04-02-blue-ocean-brain.md
 published: true
 authors: []
