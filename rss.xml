@@ -4,7 +4,7 @@
         <description><![CDATA[Nathan's Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 03:55:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 16:09:13 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Value of a Moment]]></title>
@@ -12,6 +12,13 @@
             <link>https://medium.com/@nac/the-value-of-a-moment-b8039b586a3e#.5cx188u28</link>
             <guid isPermaLink="false">dba99c81-1f78-4447-b84b-f9c12e7a5e58</guid>
             <pubDate>Sat, 16 Apr 2016 19:51:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[it can be hard to remember that the digital revolution is still in its early days]]></title>
+            <description><![CDATA[<article><h1>it can be hard to remember that the digital revolution is still in its early days</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/30f2a814f838a2c32f43b001e0b80c92e45d38de.png"></article>]]></description>
+            <link>urn:uuid:c1ae73d8-bc7f-42f5-9cf2-bd144e5cb4d5</link>
+            <guid isPermaLink="false">c3b1d7db-a43f-462e-8a5f-8451c36956ec</guid>
+            <pubDate>Thu, 28 Apr 2016 16:09:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maker's Schedule, Manager's Schedule]]></title>
