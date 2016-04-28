@@ -1,10 +1,8 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.paulgraham.com/makersschedule.html'
 inLanguage: en
-starred: false
 keywords:
   - schedule
   - meetings
@@ -17,8 +15,8 @@ keywords:
   - work
   - appointment
 description: 'NOT UNDERSTANDING THIS CAN BE DEADLY TO YOUR PRODUCTIVITY!'
-datePublished: '2016-04-20T23:22:07.263Z'
-dateModified: '2016-04-20T23:21:57.047Z'
+datePublished: '2016-04-28T03:48:43.420Z'
+dateModified: '2016-04-28T03:48:42.664Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +29,8 @@ publisher:
   domain: www.paulgraham.com
   url: 'http://www.paulgraham.com'
   favicon: 'http://ycombinator.com/arc/arc.png'
+starred: false
+url: makers-schedule-managers-schedule/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
