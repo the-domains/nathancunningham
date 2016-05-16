@@ -15,21 +15,20 @@ keywords:
   - work
   - appointment
 description: 'NOT UNDERSTANDING THIS CAN BE DEADLY TO YOUR PRODUCTIVITY!'
-datePublished: '2016-04-28T03:48:43.420Z'
-dateModified: '2016-04-28T03:48:42.664Z'
+datePublished: '2016-05-16T06:20:17.806Z'
+dateModified: '2016-05-16T06:20:05.949Z'
 author: []
 related: []
 app_links: []
 title: ''
 sourcePath: _posts/2016-04-20-makers-schedule-managers-schedule.md
-published: true
 authors: []
 publisher:
   name: Paulgraham
   domain: www.paulgraham.com
   url: 'http://www.paulgraham.com'
   favicon: 'http://ycombinator.com/arc/arc.png'
-starred: false
+starred: true
 url: makers-schedule-managers-schedule/index.html
 _context: 'http://schema.org'
 _type: MediaObject
