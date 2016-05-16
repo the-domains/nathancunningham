@@ -4,8 +4,15 @@
         <description><![CDATA[Nathan's Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 06:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 06:20:29 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Value of a Moment]]></title>
+            <description><![CDATA[<article><h1>The Value of a Moment</h1><p>WARNING: Reading this and the moment to follow may change your life may for ever. It will only take a few moments to read these words - possibly only as long as the exposure on the epic photo of Yosemite, you'd have to ask Preston. What value do you place on this moment in history?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1aaa197b8aacaba3d0d87bcb8e418bbd35bfff7.jpg"></article>]]></description>
+            <link>https://medium.com/@nac/the-value-of-a-moment-b8039b586a3e#.5cx188u28</link>
+            <guid isPermaLink="false">dba99c81-1f78-4447-b84b-f9c12e7a5e58</guid>
+            <pubDate>Mon, 16 May 2016 06:20:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Maker's Schedule, Manager's Schedule]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a85cea7-e100-4f73-b3b2-075d261784fc.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://www.entrepreneur.com/article/250364</link>
             <guid isPermaLink="false">a14885af-6b0a-4bb4-8826-a3049e38a913</guid>
             <pubDate>Mon, 16 May 2016 06:15:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Value of a Moment]]></title>
-            <description><![CDATA[<article><h1>The Value of a Moment</h1><p>WARNING: Reading this and the moment to follow may change your life may for ever. It will only take a few moments to read these words - possibly only as long as the exposure on the epic photo of Yosemite, you'd have to ask Preston. What value do you place on this moment in history?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1aaa197b8aacaba3d0d87bcb8e418bbd35bfff7.jpg"></article>]]></description>
-            <link>https://medium.com/@nac/the-value-of-a-moment-b8039b586a3e#.5cx188u28</link>
-            <guid isPermaLink="false">dba99c81-1f78-4447-b84b-f9c12e7a5e58</guid>
-            <pubDate>Mon, 16 May 2016 05:47:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
