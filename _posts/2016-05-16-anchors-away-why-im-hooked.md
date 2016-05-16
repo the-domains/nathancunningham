@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - anchor
   - social
@@ -47,15 +47,16 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
+isBasedOnUrl: 'https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.3byrdvipw'
 title: "Anchors Away - Why I'm Hooked"
-datePublished: '2016-05-16T04:56:16.747Z'
-dateModified: '2016-05-16T04:52:48.076Z'
-starred: false
+datePublished: '2016-05-16T06:19:50.119Z'
+dateModified: '2016-05-16T06:19:39.419Z'
 sourcePath: _posts/2016-05-16-anchors-away-why-im-hooked.md
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: anchors-away-why-im-hooked/index.html
+authors: []
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
