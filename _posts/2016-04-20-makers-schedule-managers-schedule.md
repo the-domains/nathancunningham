@@ -15,8 +15,8 @@ keywords:
   - work
   - appointment
 description: 'NOT UNDERSTANDING THIS CAN BE DEADLY TO YOUR PRODUCTIVITY!'
-datePublished: '2016-05-16T06:20:17.806Z'
-dateModified: '2016-05-16T06:20:05.949Z'
+datePublished: '2016-05-16T06:21:52.737Z'
+dateModified: '2016-05-16T06:21:41.513Z'
 author: []
 related: []
 app_links: []
@@ -28,7 +28,7 @@ publisher:
   domain: www.paulgraham.com
   url: 'http://www.paulgraham.com'
   favicon: 'http://ycombinator.com/arc/arc.png'
-starred: true
+starred: false
 url: makers-schedule-managers-schedule/index.html
 _context: 'http://schema.org'
 _type: MediaObject
