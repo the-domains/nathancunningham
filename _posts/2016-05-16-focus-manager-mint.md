@@ -12,10 +12,10 @@ related:
     thumbnail_url: 'http://s3.amazonaws.com/marquee-test-akiaisur2rgicbmpehea/8A0V9qL9TTic0g9CdcXm_Dave%20Hero.jpg'
     thumbnail_width: 640
 publisher:
-  url: 'https://medium.com'
   name: Medium
-  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
   domain: medium.com
+  url: 'https://medium.com'
+  favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 keywords:
   - keller
   - thing
@@ -54,15 +54,16 @@ app_links:
     package: com.medium.reader
     namespace: google
     type: android
+isBasedOnUrl: 'https://medium.com/manager-mint/focus-6234058ec56#.yq4jp5fdo'
 title: 'FOCUS! - Manager Mint'
-datePublished: '2016-05-16T05:42:26.957Z'
-dateModified: '2016-05-16T05:41:42.642Z'
-starred: false
+datePublished: '2016-05-16T05:46:43.203Z'
+dateModified: '2016-05-16T05:46:21.000Z'
 sourcePath: _posts/2016-05-16-focus-manager-mint.md
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: focus-manager-mint/index.html
+authors: []
+starred: true
 _type: Article
 _context: 'http://schema.org'
 
