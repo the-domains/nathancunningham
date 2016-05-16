@@ -4,7 +4,7 @@
         <description><![CDATA[Nathan's Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 06:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 06:39:55 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FOCUS!]]></title>
@@ -33,13 +33,6 @@
             <link>http://nathancunningham.com/makers-schedule-managers-schedule/index.html</link>
             <guid isPermaLink="false">dca094e0-1e4a-4759-ba00-bed78c1d3a9b</guid>
             <pubDate>Mon, 16 May 2016 06:21:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://assets.entrepreneur.com/content/16x9/822/20150701170930-surveyed-choose-entrepreneurship-despite-sacrifices-black-male-computer-laptop-working-outside-wall-street.jpeg">]]></description>
-            <link>https://www.entrepreneur.com/article/250364</link>
-            <guid isPermaLink="false">a14885af-6b0a-4bb4-8826-a3049e38a913</guid>
-            <pubDate>Mon, 16 May 2016 06:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
