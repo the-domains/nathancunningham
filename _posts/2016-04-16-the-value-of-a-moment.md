@@ -16,8 +16,8 @@ keywords:
   - preston
   - '272'
 description: "WARNING: Reading this and the moment to follow may change your life may for ever. It will only take a few moments to read these words - possibly only as long as the exposure on the epic photo of Yosemite, you'd have to ask Preston. What value do you place on this moment in history?"
-datePublished: '2016-05-16T05:47:03.306Z'
-dateModified: '2016-05-16T05:46:49.211Z'
+datePublished: '2016-05-16T06:20:27.228Z'
+dateModified: '2016-05-16T06:19:19.141Z'
 author:
   - name: Nathan A. Cunningham
     url: 'https://medium.com/@nac'
@@ -56,7 +56,7 @@ publisher:
   url: 'https://medium.com'
   favicon: 'https://cdn-static-1.medium.com/_/fp/icons/favicon-medium.TAS6uQ-Y7kcKgi0xjcYHXw.ico'
 sourcePath: _posts/2016-04-16-the-value-of-a-moment.md
-starred: false
+starred: true
 _type: Article
 _context: 'http://schema.org'
 
