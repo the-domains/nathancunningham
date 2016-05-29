@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Nathan's Progress Report]]></title>
-        <description><![CDATA[Nathan's Progress Report]]></description>
+        <title><![CDATA[A Progress Report]]></title>
+        <description><![CDATA[A Progress Report]]></description>
         <link>http://nathancunningham.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 06:39:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2016 18:47:21 GMT</lastBuildDate>
         <atom:link href="http://nathancunningham.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FOCUS!]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Mon, 16 May 2016 06:26:59 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Value of a Moment]]></title>
+            <description><![CDATA[<article><h1>The Value of a Moment</h1><p>WARNING: Reading this and the moment to follow may change your life for ever. It will only take a few moments to read these words - possibly only as long as the exposure on the epic photo of Yosemite, you'd have to ask Preston. What value do you place on this moment in history?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1aaa197b8aacaba3d0d87bcb8e418bbd35bfff7.jpg"></article>]]></description>
+            <link>https://medium.com/@nac/the-value-of-a-moment-b8039b586a3e#.5cx188u28</link>
+            <guid isPermaLink="false">dba99c81-1f78-4447-b84b-f9c12e7a5e58</guid>
+            <pubDate>Sun, 29 May 2016 18:47:20 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Anchors Away - Why I'm Hooked]]></title>
-            <description><![CDATA[<article><h1>Anchors Away - Why I'm Hooked</h1><p>Less than 24 hours on Anchor, I was hooked. I'm usually no early adopter. But my friend Rebecca (an enterprising and entrepreneurial real estate guru) asked me if I'd heard of Anchor late on Saturday evening. I said it looked really interesting and I'd check it out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/231a24cef27cd0bb556168d2acbbe84d0be18596.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Anchors Away - Why I'm Hooked</h1><p>Less than 24 hours on Anchor, I was hooked. I'm usually no early adopter. But my friend Rebecca (an enterprising and entrepreneurial real estate guru) asked me if I'd heard of Anchor late on Saturday evening. I said it looked really interesting and I'd check it out.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3426dec05c8d8625a4e52bdd19b701cb7796dc8.png"></article>]]></description>
             <link>https://medium.com/@nac/anchors-away-i-m-hooked-2175460fc2c3#.3byrdvipw</link>
             <guid isPermaLink="false">b3578745-c0e9-46b5-9a3a-d8bb847351f9</guid>
             <pubDate>Mon, 16 May 2016 06:27:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Value of a Moment]]></title>
-            <description><![CDATA[<article><h1>The Value of a Moment</h1><p>WARNING: Reading this and the moment to follow may change your life may for ever. It will only take a few moments to read these words - possibly only as long as the exposure on the epic photo of Yosemite, you'd have to ask Preston. What value do you place on this moment in history?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a1aaa197b8aacaba3d0d87bcb8e418bbd35bfff7.jpg"></article>]]></description>
-            <link>https://medium.com/@nac/the-value-of-a-moment-b8039b586a3e#.5cx188u28</link>
-            <guid isPermaLink="false">dba99c81-1f78-4447-b84b-f9c12e7a5e58</guid>
-            <pubDate>Mon, 16 May 2016 06:25:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Maker's Schedule, Manager's Schedule]]></title>
