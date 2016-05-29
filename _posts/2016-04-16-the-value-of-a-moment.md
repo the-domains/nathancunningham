@@ -16,8 +16,8 @@ keywords:
   - preston
   - '272'
 description: "WARNING: Reading this and the moment to follow may change your life for ever. It will only take a few moments to read these words - possibly only as long as the exposure on the epic photo of Yosemite, you'd have to ask Preston. What value do you place on this moment in history?"
-datePublished: '2016-05-29T18:47:20.356Z'
-dateModified: '2016-05-29T18:46:42.261Z'
+datePublished: '2016-05-29T18:47:58.362Z'
+dateModified: '2016-05-29T18:47:38.120Z'
 author:
   - name: Nathan A. Cunningham
     url: 'https://medium.com/@nac'
