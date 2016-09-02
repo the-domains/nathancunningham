@@ -1,30 +1,7 @@
-typography_spectrum: 0.37228
-color:
-  brandColors:
-    - '#ffffff'
-    - '#cab57c'
-    - '#b59451'
-    - '#190e0e'
-    - '#392d27'
-  brandStrength: 0.6875
-  lightness: 0.3619298024568707
-  saturation: 0.7050722283311188
-  rhythmicContrast: 0.3830534636508673
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.41813
-analytics:
-  google: UA-77791828-1
-  facebook: null
-  twitter: null
 name: nathancunningham.com
-cta:
-  domain: null
-  bucket: null
-  version: null
 favicon: null
+layout_spectrum: 0.41813
+typography_spectrum: 0.37228
 collections:
   - index:
       navigable: true
@@ -39,4 +16,27 @@ collections:
       path: '/:title/'
 title: A Progress Report
 description: Leaving a trail.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-77791828-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#cab57c'
+    - '#b59451'
+    - '#190e0e'
+    - '#392d27'
+  brandStrength: 0.6875
+  lightness: 0.3619298024568707
+  saturation: 0.7050722283311188
+  rhythmicContrast: 0.3830534636508673
 purpose: []
